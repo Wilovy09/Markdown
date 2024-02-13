@@ -187,3 +187,119 @@ Es igual a:
 
 > [!CAUTION]
 > Precausión con esto
+
+## LaTex
+
+Podemos usar sintaxis de LaTex en Markdown
+
+### Ecuaciones de linea
+
+`$ ecuacion $`
+
+$ x^{3} + x^{-3} $
+
+### Ecuaciones en bloque
+
+`$$ ecuacion $$`
+
+$$ x^{3} + x^{-3} $$
+
+## Fracciones
+
+`\frac{numerador}{denominador}`
+
+$$ \frac{1}{2} $$
+
+## Exponentes
+
+`x^{n}`
+
+$$ x^{n} $$
+
+## Raíz cuadrada o n
+
+`\sqrt{x}`
+
+$$ \sqrt{16} $$
+
+`\sqrt[n]{16}`
+
+$$ \sqrt[n]{16} $$
+
+## Integral definida
+
+`\int_{a}^{b} f(x) dx`
+
+$$ \int_{a}^{b} f(x) dx $$
+
+## Sumaroria
+
+`\sum_{i+1}^{n} a_i`
+
+$$ \sum_{i+1}^{n} a_1 $$
+
+## Producto
+
+`\prod_{i+1}^{n} a_i`
+
+$$ \prod_{i+1}^{n} a_i $$
+
+## Funciones trigonométricas
+
+`\sin(x)`
+
+$$ \sin(x) $$
+
+`\cos(x)`
+
+$$ \cos(x) $$
+
+`\tan(x)`
+
+$$ \tan(x) $$
+
+## Subindices y superindices
+
+`a_{ij}`
+
+$$ a_{ij} $$
+
+`b^{2}`
+
+$$ b^{2} $$
+
+## Espacios
+
+Podemos simplemente poner un " " entre los terminos pero podemos poder más espacio con lo siguiente
+
+$$ b^{2} + b^{2} $$
+
+### Espacio fino
+
+`\,`
+
+```md
+$$ b^{2}\,+\,b^{2} $$
+```
+
+$$ b^{2}\,+\,b^{2} $$
+
+### Espacio medio
+
+`\:`
+
+```md
+$$ b^{2}\:+\:b^{2} $$
+```
+
+$$ b^{2}\:+\:b^{2} $$
+
+### Espacio ancho
+
+`\;`
+
+```md
+$$ b^{2}\;+\;b^{2} $$
+```
+
+$$ b^{2}\;+\;b^{2} $$
