@@ -148,6 +148,8 @@ Es igual a:
 > [!NOTE]
 > Esto es una nota
 
+---
+
 ```md
 > [!TIP]
 > Esto es una consejo
@@ -155,6 +157,8 @@ Es igual a:
 
 > [!TIP]
 > Esto es una consejo
+
+---
 
 ```md
 > [!IMPORTANT]
@@ -164,6 +168,8 @@ Es igual a:
 > [!IMPORTANT]
 > Esto es algo importante
 
+---
+
 ```md
 > [!WARNING]
 > Esto es una advertencia
@@ -171,6 +177,8 @@ Es igual a:
 
 > [!WARNING]
 > Esto es una advertencia
+
+---
 
 ```md
 > [!CAUTION]
