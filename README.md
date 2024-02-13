@@ -124,9 +124,7 @@ Es igual a:
 
 ## GITHUB MARKDOWN
 
-### @
-
-@Wilovy09
+Github tiene cosas especiales para sus Markdowns
 
 ### Checkbox
 
